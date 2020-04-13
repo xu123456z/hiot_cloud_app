@@ -40,7 +40,7 @@
 <!--实验1.4开始-->
         <Button
             android:id="@+id/btn_logout"
-            android:text="注销(1班许泽鑫12号)"
+            android:text="注销(17物联网1班许泽鑫12号)"
             android:textSize="20sp"
             android:background="@drawable/login_button_bg"
             android:layout_width="match_parent"
